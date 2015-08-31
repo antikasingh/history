@@ -1,0 +1,175 @@
+
+body { margin: 0; padding: 0;} h1, h2, p { margin: 0; padding: 0; }
+
+.caption { font: 14px/16px 'Alegreya', Georgia, serif;
+color: #999; text-transform: lowercase;}
+ 
+ caption a { font: 14px/16px 'Unica One', Helvetica, Arial, sans-serif;
+letter-spacing: 0em; color: #999; text-transform: uppercase; text-decoration:
+none; } 
+
+.caption a:hover { background-color: #ddd; }
+
+@media screen and (min-width: 768px) 
+  h1 {font-size: 60px;
+  }
+
+.intro { 
+    height: auto;  
+    margin: 0 auto; 
+    width: 100%; 
+    position: relative; 
+    box-shadow: 0 0 50px rgba(0,0,0,0.8);
+    padding:142px 0;no-repeat center;}
+
+
+.col-xs-12 
+  h1 { font: 60px/60px 'Abril Fatface',Georgia, serif; text-transform: uppercase; color: #009999; text-align:
+center;} 
+
+ h1 i { text-transform: lowercase; letter-spacing: 0; color: #7a6; } 
+ 
+ .small {font: 4em/4em  'Playfair Display', Georgia,
+	serif;color:#333333;}
+
+.col-sm-4 
+	p {color: #999; font: 14px/20px 'Alegreya',
+Georgia, serif; margin: 15% auto;}
+
+
+
+.theme {background-color: #212221; color: #9d9e9d; overflow: hidden;}
+
+.theme-col-xs-12 h1 {font: 61px/61px 
+		'Vast Shadow', 'Arial Black';
+		color: #865;      
+     text-transform: uppercase; padding: auto,margin: 0 auto; text-align: center; }         
+
+.theme-col-xs-12 h1 span { font: 300 18px 'Oswald', Helvetica, Arial;
+	 color: #555;letter-spacing: .05em; } 
+
+.theme-col-xs-12 p {color: #9d9e9d; margin: 0 auto;}
+
+
+
+.ess-col-xs-12 h2 {font:60px/36px 'Unica One', sans-serif; text-transform: uppercase; text-align: center; color: #c31; margin: 20px 20px 30px;}
+.ess-p-col-6 p {font: 16px/24px 'Vollkorn', serif; color: #333;text-align:center;}
+.ess-p-col-6 strong {text-transform:capitalize; text-indent: 5%; text-align: center;}
+.ess-p-col-6 blockquote {text-align: center;}
+
+
+
+
+.haiti {background-image: url(../img/haiti4.jpg);
+  50% 0 fixed; 
+    height: auto;  
+    margin: 0 auto; 
+    width: 100%; 
+    position: relative; 
+    box-shadow: 0 0 50px rgba(0,0,0,0.8);
+    padding: 20% 0;no-repeat center;
+    background-size: cover;
+}
+
+.haiti-col-xs-12 h2 {font: 70px/68px 'Playfair Display', Georgia,
+serif; color: rgba(245, 217, 217, 0.81); text-transform: uppercase; text-align: center;padding: 20px 0;}
+
+.haiti-about {padding: 100px 0;}
+
+.haiti-about-span4 p {font: 30px/30px 'Fauna One', Georgia, sans-serif;
+    margin: 0 auto;
+    border-bottom: 3px solid #4A3939;
+    text-align: left;
+    float: left;}
+
+
+.haiti-about-col-xs-4 blockquote {font: 16px/20px 'Playfair Display', Georgia, serif;
+    text-align: center;
+    overflow: hidden;
+    width: 60%;
+    margin: 0 auto;
+    float: right;
+}
+
+.part {background: #000 url(../img/partition.jpg) 
+	50% 0 fixed; 
+    height: auto;  
+    margin: 0 auto; 
+    width: 100%; 
+    position: relative; 
+    box-shadow: 0 0 50px rgba(0,0,0,0.8);
+    padding: 150px 0;no-repeat center;
+	background-size: cover;}
+
+.part-col-xs-5 h2 { font: 400 76px/80px 'Oswald', sans-serif; color: #fff; letter-spacing:; text-align: center; margin: auto; text-transform: uppercase;}
+
+.part-col-xs-5 p {background-color: rgba(0,0,0,0.7);font: 400
+16px/30px 'Quattrocento' sans-serif; color: rgba(237, 252, 246, 0.82); width: 50%; margin: 0 auto; border-bottom: 2px solid #fff; border-top: 2px solid #fff; text-align: center;}
+
+.cuba { background:url(../img/cuba2.jpg)  50% 0 fixed; 
+    height: auto;  
+    margin: 0 auto; 
+    width: auto; 
+    position: relative; 
+    box-shadow: 0 0 50px rgba(0,0,0,0.8);
+    padding: 150px 0;no-repeat center;
+    background-size: cover;}
+
+.cuba-col-xs-12 h2 {font:60px/75px
+'Alfa Slab One', cursive, sans-serif;color:#D5C049;   text-transform:uppercase; letter-spacing:1.25px; text-align:center; margin: auto 0;}
+
+.cuba-col-xs-4-center p {background-color:rgba(0,0,0,0.2);font:20px/30px 'Gentium Book Basic', serif; color:rgba(247, 246, 223, 0.91);
+text-align:center; width: 40%; padding: 5%}
+
+.cuba-col-xs-8 blockquote { color:#EFEFEF;
+font:italic 400 30px/40px "Gentium Book Basic",serif; margin-right:0;text-align:right;float:right;}
+
+
+
+.iran { background: url(../img/iran.jpg) 50% 0 fixed; 
+    height: auto;  
+    margin: 0 auto; 
+    width: auto; 
+    position: relative; 
+    box-shadow: 0 0 50px rgba(0,0,0,0.8);
+    padding: 150px 0;no-repeat center;
+	background-size: cover;}
+
+.iran-col-xs-6 h2 {font: 70px/70px 'Julius Sans One', 
+Helvetica, sans-serif; color:#FFFB6A;
+text-transform: uppercase;    
+margin: auto;    
+text-align: center;
+vertical-align: middle;
+width: 100%;
+padding: 2%;}
+
+.iran-col-sm-4 p {background-color: rgba(0,0,0,0.3);
+font: 20px/26px 'Crimson Text', Georgia , serif;  
+color: #F7F0CE;   
+border-top: dotted 10px rgba(169, 171, 40, 1);    
+width: 40%;
+    margin: auto;
+    border-bottom: 2px solid #fff;
+    text-align: center;
+padding: 2% 0}
+
+.iran-col-sm-4 p.last {font-size: 26px;   
+    line-height: 1;   
+    font-style:italic;   
+    color: #F7F0CE;   text-align: center; padding: 20px 0;
+    width: 40%; padding: 2% 0}
+
+.arab { background: url(../img/arab3.jpg) 50% 0 fixed;  
+    height: auto;  
+    margin: 0 auto; 
+    width: auto; 
+    position: relative; 
+    box-shadow: 0 0 50px rgba(0,0,0,0.8);
+    padding: 200px 0;no-repeat center;
+    background-size: cover;}
+
+.arab-col-md-12 h2 {font: 200 72px/96px 'Philosopher', sans-serif;
+color:#fff; margin: 0 0 50px 0;}
+
+.arab-col-md-12 p{font: 1.05em/2em 'Muli', sans-serif;      color:#fff;  letter-spacing: .02em; } 
