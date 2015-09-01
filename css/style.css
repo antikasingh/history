@@ -169,7 +169,62 @@ padding: 2% 0}
     padding: 200px 0;no-repeat center;
     background-size: cover;}
 
-.arab-col-md-12 h2 {font: 200 72px/96px 'Philosopher', sans-serif;
+.arab-col-md-12 h2 {font: 200 90px/96px 'Philosopher', sans-serif;
 color:#fff; margin: 0 0 50px 0;}
 
-.arab-col-md-12 p{font: 1.05em/2em 'Muli', sans-serif;      color:#fff;  letter-spacing: .02em; } 
+
+
+.arab-about-col-md-4 p {font: 16px/20px 'Playfair Display', Georgia, serif;   color:#821D1D;  
+    letter-spacing: .02em;text-align: center;
+    padding: 20px 0;} 
+
+
+.alltheme
+
+.alltheme-col-xs-12 h2 {font: 200 90px/64px'Open Sans Condensed', sans-serif; 
+    text-align: center; padding: 10px 0;    text-decoration: underline; }
+
+
+.alltheme-col-xs-6 p {font: 200 90px/64px'Open Sans Condensed', sans-serif;  color: rgba(50, 152, 121, 0.89);
+    text-align: center; padding: 20% 0;}
+
+.alltheme-img {background: url(../img/oppression.jpg) 50% 0 fixed; 
+    height: auto;  
+    margin: 0 auto; 
+    width: auto; 
+    position: relative; 
+    box-shadow: 0 0 50px rgba(0,0,0,0.8);
+    padding: 300px 0;no-repeat center;
+    background-size: cover;}
+
+
+.theme2-col-xs-12 h2
+   {font: 200 90px/64px'Open Sans Condensed', sans-serif;
+    color: rgba(50, 152, 121, 0.89);
+    text-align: center;
+    padding: 20% 0;}
+
+
+.theme2-img-col-xs-12 {background: url(../img/girlchild.jpg) 50% 0 fixed; 
+    height: auto;  
+    margin: 0 auto; 
+    width: auto; 
+    position: relative; 
+    box-shadow: 0 0 50px rgba(0,0,0,0.8);
+    padding: 300px 0; no-repeat center;
+    background-size: cover;}
+
+
+.theme3-col-xs-12 h2 {font: 200 90px/64px'Open Sans Condensed', sans-serif;  color: rgba(50, 152, 121, 0.89);
+    text-align: center; padding: 20% 0;}
+
+.theme3-img {background: #000 url(../img/race.jpg) 
+    50% 0 fixed; 
+    height: auto;  
+    margin: 0 auto; 
+    width: 100%; 
+    position: relative; 
+    box-shadow: 0 0 50px rgba(0,0,0,0.8);
+    padding: 300px 0;no-repeat center;
+    background-size: cover;}
+

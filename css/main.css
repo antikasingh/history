@@ -48,19 +48,35 @@ border-top: 4px double #676767;      border-bottom: 4px double #676767; }
 margin: 0 5px 0 3px; color: #555;      letter-spacing: .05em; } 
 
 .section-power
-p { width: 620px; color: #9d9e9d; margin: 0 auto; } .section-power .black-ital
+p { width: 620px; color: #9d9e9d; margin: 0 auto; } 
+
+.section-power .black-ital
 { font: italic 900 130px/90px 'Playfair Display', Georgia, serif; margin-
-bottom: 12px; display: block; } .section-power.ital { font: italic 400
+bottom: 12px; display: block; } 
+
+.section-power.ital { font: italic 400
 60px/60px 'Playfair Display', Georgia, serif; margin: 0 0 8px 6px; display:
-block; } .section-power .small-cap { font: 400 18px/36px 'Playfair Display
+block; } 
+
+.section-power .small-cap { font: 400 18px/36px 'Playfair Display
 SC', Georgia, serif; letter-spacing: .17em; margin: 0 0 0 12px; text-
-transform: uppercase; display: block; } .section-power.reg { font: 400
+transform: uppercase; display: block; }
+
+ .section-power.reg { font: 400
 46px/40px 'Playfair Display', Georgia, serif; display: block; margin: 0 0 0
--10px; } .section-power.bold-ital { font: italic 700 43px/56px 'Playfair
-Display', Georgia, serif; display: block; } .section-power .bold { font: 400
+-10px; } 
+
+.section-power.bold-ital { font: italic 700 43px/56px 'Playfair
+Display', Georgia, serif; display: block; } 
+
+.section-power .bold { font: 400
 23px/36px 'Playfair Display', Georgia, serif; display: block; margin-left:
-8px; } .section-power strong { text-transform: uppercase; font-weight: 900;
-letter-spacing: .15em; font-size: 18px; margin: 0 3px; } .section-power .black
+8px; } 
+
+.section-power strong { text-transform: uppercase; font-weight: 900;
+letter-spacing: .15em; font-size: 18px; margin: 0 3px; } 
+
+.section-power .black
 { font: 900 39px/32px 'Playfair Display', Georgia, serif; margin-left: 4px;
 display: block; }
 
